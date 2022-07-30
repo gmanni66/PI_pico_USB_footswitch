@@ -2,3 +2,15 @@
 Rasbberry PI Pico USB midi footswitch 
 
 a simple foot switch for sending midi ControlChange to Midi enabled Apps
+
+It uses 8 switches and 8 LED
+simple send ControlChanges to whatever value is specified in the code
+it will Turn ON the LED if the ControlChange is set from 64 to 127 which is the ON value
+it will turn Off the LED if the value is from 0 to 63 
+
+The MIDI value or channel canbe customized but it will work with any app that can receive MIDI input from a USB source 
+
+I've used it with Raspberry PI MODEP and with Tonelib GFX on PC 
+
+Hope someone finds it usefull 
+
