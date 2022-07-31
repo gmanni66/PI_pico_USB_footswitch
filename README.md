@@ -14,3 +14,6 @@ I've used it with Raspberry PI MODEP and with Tonelib GFX on PC
 
 Hope someone finds it usefull 
 
+The code is ery rudimental and needs of cleaning up 
+I'm sure there is a better way to do just the same but is the only way I could make it work 
+anyone care to improve it please go ahead and thank you in advance :) 
